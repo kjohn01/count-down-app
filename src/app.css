@@ -1,0 +1,22 @@
+div {
+  text-align: center;
+  font-size: 2rem;
+}
+.Days, .Hours, .Mins, .Seconds {
+  display: inline;
+  padding: 10px;
+}
+
+.Field {
+  display: flex;
+  justify-content: center;
+}
+
+input, button {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000;
+  border-radius: 5px;
+  color: #000;
+  margin: 10px;
+}
